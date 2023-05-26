@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdineshYadav
 - 👀 I’m interested in open source devlopment
-- 🌱 I’m currently learning java
+- 🌱 I’m currently exploring application development through Spring Framework
 - 💞️ I’m looking to collaborate on java based projects
 - 📫 How to reach me e-mail -> adineshyadav89@gmail.com
 
